@@ -1,3 +1,5 @@
+//This is the program created on the Numerical Methods lab on Warsaw University on Technology in March2023
+//This is Problem 1 from lab1. You can find the description here http://ccfd.github.io/courses/metnum_lab1.html
 
 #define _CRT_SECURE_NO_WARNINGS
 
