@@ -12,3 +12,5 @@ or other features, which for now are undiscovered for me.
 
 I'll try to write only in English, but some materials are given in Polish. I'm not gonna translate everything ;)
 
+JS, Mechanika i Projektowanie Maszyn
+10.03.2023
